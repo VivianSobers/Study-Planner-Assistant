@@ -15,7 +15,8 @@ gcc graph.h planner.h main.c planner.c graph.c
 
 ### Execution
 ```bash
-./a
+./a.exe #Windows
+./a.out #macOS and Linux
 ```
 
 ---
