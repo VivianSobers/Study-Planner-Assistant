@@ -528,21 +528,21 @@ Header file defining the graph data structure and its operations. Includes the `
 ### Sample Workflow
 
 1. **Add Subjects**:
-   - Data Structures (40 hours, Priority 1)
-   - Algorithms (50 hours, Priority 2)
-   - Database Systems (35 hours, Priority 1)
+   - DSA (40 hours, Priority 1)
+   - DDCO (50 hours, Priority 2)
+   - AFLL (35 hours, Priority 1)
 
 2. **Define Dependencies**:
-   - Data Structures → Algorithms
-   - Data Structures → Database Systems
+   - DSA → DDCO
+   - DDCO → AFLL
 
 3. **Generate Study Order**:
-   - System outputs: Data Structures → Algorithms → Database Systems
+   - System outputs: DSA → DDCO → AFLL
 
 4. **Check Balance**:
-   - Data Structures: Well-balanced
-   - Algorithms: Over-allocated (20% above average)
-   - Database Systems: Under-allocated (16% below average)
+   - DSA: Well-balanced
+   - DDCO: Over-allocated (20% above average)
+   - AFLL: Under-allocated (16% below average)
 
 ---
 
