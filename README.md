@@ -45,7 +45,7 @@ We developed a **command-line Study Planner Assistant** that leverages graph the
 - **Language**: C (for performance and portability)
 - **Data Structures**: Directed graph with adjacency lists, array of structures
 - **Algorithm**: Kahn's algorithm for topological sorting (O(V+E) time complexity)
-- **Architecture**: Three-layer design (UI, Business Logic, Data Structure)
+- **Architecture**: Three-layer design (UI, Design Logic, Data Structure)
 
 ---
 
