@@ -60,7 +60,7 @@ The Study Planner Assistant is a software application designed to help students 
 The application follows a modular, layered architecture:
 
 - **User Interface Layer (main.c)**: Handles all user interactions through a menu-driven CLI
-- **Business Logic Layer (planner.c/h)**: Implements core planning functionality and analysis features
+- **Design Logic Layer (planner.c/h)**: Implements core planning functionality and analysis features
 - **Data Structure Layer (graph.c/h)**: Provides graph operations and topological sorting
 
 ### 3. Key Components
